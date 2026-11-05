@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-plugin-hosting-filament",
+  "capabilityKey": "liberusoftware/music-plugin-hosting",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/music-plugin-hosting-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/music/nextjs/plugin-hosting.md",
+  "presentationPlan": "projects/music/filament/plugin-hosting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
